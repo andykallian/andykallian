@@ -7,7 +7,7 @@
 </div>
 
 
-## Technologies I study and use in my daily work:
+## Tecnologias que estudo e utilizo no meu dia a dia:
 
 <div style="display: inline-block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,9 +23,4 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/andykallian/andykallian/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
